@@ -30,7 +30,7 @@ body {
 }
 .section-header {
   text-align: center;
-  margin: 7.5rem;
+  margin: 7.5rem 0;
 }
 
 .section-header h1 {
